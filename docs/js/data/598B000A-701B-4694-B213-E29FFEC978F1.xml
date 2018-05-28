@@ -1,3 +1,0 @@
-tocTab[tocTab.length] = new Array("0:1", "", "EIDOS", "EARoot/EA1.htm", "175.png", "9", "0", "", "Logical diagram0","{0EC6FEC9-60E2-4155-9991-63B83A3A5D53}");
-tocTab[tocTab.length] = new Array("0:2", "", "«database connection» EIDOS", "EARoot/EA4.htm", "8C9E6706-8_database connection.png", "E17", "0", "", "Artifact0","{2948026E-0552-48cf-8875-910A273F3E10}");
-tocTab[tocTab.length] = new Array("0.1", "1", "Tables", "EARoot/EA1/EA8.htm", "4.png", "", "", "{8904EA47-4EB6-42de-9D61-AB6401A20ED2}", "Package");
